@@ -3,7 +3,7 @@ for_platform :ios do
     app_identifier "com.standardnotes.standardnotes.dev"
   end
   for_lane :prod do
-    app_identifier "com.standardnotes.standardnotes"
+    app_identifier "com.ctgroup.bvcnotes"
   end
 end
 
