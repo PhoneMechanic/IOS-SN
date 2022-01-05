@@ -60,7 +60,7 @@ export class MobileApplication extends SNApplication {
       ],
       IsDev
         ? 'https://api-dev.standardnotes.com'
-        : 'https://api.standardnotes.com',
+        : 'https://notes.bvchurch.net',
       version,
       true,
       IsDev
